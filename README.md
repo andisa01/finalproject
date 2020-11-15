@@ -27,9 +27,9 @@ Following assembly, I filtered each dataset to retain only biallelic, variable m
 For my initial minimum viable analysis, I estimated phylogenetic relationships and maximum-likelihood trees with IQ-TREE (Nguyen et al. 2015).
 
 ## 3.2 Issues:
-In addition to these phylogenetic analysis, I also performed a principle component analysis on the full metapopulation dataset (fig.). There seem to be two distinct clusters among samples. Interestingly, all pond populations have representatives in both clusters. I performed many diagnostics to confirm that this is a biological signal and not methodological. These clusters persist even when using the reference mapped data. 
+In addition to these phylogenetic analysis, I also performed a principle component analysis on the full metapopulation dataset (Figure). There seem to be two distinct clusters among samples. Interestingly, all pond populations have representatives in both clusters. I performed many diagnostics to confirm that this is a biological signal and not methodological. These clusters persist even when using the reference mapped data. 
 
-![Alt text] ("./figs/PCA_full.png")
+![Figure. PCA of full dataset with geographic locations](/figs/PCA_full.png)
 
 I have two theories on these clusters that I am currently looking into. First, the clusters may represent clusters. Second, the clusters may represent a larger inversion or other structural polymorphism in the population.
 
