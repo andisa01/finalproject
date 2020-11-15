@@ -33,7 +33,9 @@ In addition to these phylogenetic analysis, I also performed a principle compone
 
 I have two theories on these clusters that I am currently looking into. First, the clusters may represent clusters. Second, the clusters may represent a larger inversion or other structural polymorphism in the population.
 
-In any case, I am worried that this signal will drive the phylogenetic estimates. Looking at the tree inferred for the full dataset, it certainly seems that there is a very week relationship between clades and pond populations as I would expect.
+In any case, I am worried that this signal will drive the phylogenetic estimates. Looking at the tree inferred for the full dataset, it certainly seems that there is a very weak to nonexistent relationship between clades and pond populations as I would expect.
+
+![Figure. Cladogram of full metapopulation data](/figs/YMFmain_phylo.png)
 
 While looking into these issues, I’ve also realized that these type of fine-scale, intra-specific data violate all of the assumption of the IQ-TREE and most (all?) of the phylogenetic inference programs. Given the likely extreme level of incomplete lineage sorting from interbreeding populations, I’m not even sure if it makes sense to use these tools at all.
 
