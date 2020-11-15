@@ -1,0 +1,311 @@
+IQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    p09r11n13.grace.hpc.yale.internal (AVX512, FMA3, 187 GB RAM)
+Command: iqtree -s ../../2.subsampling/YMFmain/YMFmain.subset.0.50_0.50_1000.min1.phy -nt AUTO
+Seed:    383179 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Nov 15 12:49:56 2020
+Kernel:  AVX+FMA - auto-detect threads (36 CPU cores detected)
+
+Reading alignment file ../../2.subsampling/YMFmain/YMFmain.subset.0.50_0.50_1000.min1.phy ... Phylip format detected
+Alignment most likely contains protein sequences
+Alignment has 231 sequences with 999 columns, 999 distinct patterns
+999 parsimony-informative, 0 singleton sites, 0 constant sites
+                          Gap/Ambiguity  Composition  p-value
+   1  YMF2018_040_S59001.trim     0.00%    failed      3.47%
+   2  YMF2018_041_S71001.trim     0.00%    failed      0.11%
+   3  YMF2018_042_S83001.trim     0.00%    passed     61.47%
+   4  YMF2018_044_S1001.trim      0.00%    passed     39.68%
+   5  YMF2018_045_S12001.trim     0.00%    failed      0.00%
+   6  YMF2018_046_S24001.trim     0.00%    failed      0.00%
+   7  YMF2018_047_S36001.trim     0.00%    failed      0.00%
+   8  YMF2018_048_S48001.trim     0.00%    failed      0.04%
+   9  YMF2018_049_S60001.trim     0.00%    passed     52.64%
+  10  YMF2018_050_S72001.trim     0.00%    failed      0.00%
+  11  YMF2018_051_S84001.trim     0.00%    failed      0.04%
+  12  YMF2018_052_S2001.trim      0.00%    failed      0.00%
+  13  YMF2018_053_S13001.trim     0.00%    failed      0.00%
+  14  YMF2018_054_S25001.trim     0.00%    failed      0.01%
+  15  YMF2018_055_S37001.trim     0.00%    failed      0.00%
+  16  YMF2018_057_S49001.trim     0.00%    failed      0.50%
+  17  YMF2018_059_S61001.trim     0.00%    failed      4.54%
+  18  YMF2018_060_S73001.trim     0.00%    passed     91.75%
+  19  YMF2018_061_S85001.trim     0.00%    passed     63.48%
+  20  YMF2018_062_S3001.trim      0.00%    passed     25.00%
+  21  YMF2018_063_S14001.trim     0.00%    failed      0.00%
+  22  YMF2018_064_S26001.trim     0.00%    failed      0.00%
+  23  YMF2018_065_S38001.trim     0.00%    failed      0.00%
+  24  YMF2018_066_S50001.trim     0.00%    failed      0.00%
+  25  YMF2018_067_S62001.trim     0.00%    failed      0.00%
+  26  YMF2018_069_S74001.trim     0.00%    failed      3.17%
+  27  YMF2018_070_S86001.trim     0.00%    failed      4.57%
+  28  YMF2018_071_S4001.trim      0.00%    passed     54.06%
+  29  YMF2018_072_S15001.trim     0.00%    passed     51.46%
+  30  YMF2018_073_S27001.trim     0.00%    passed     46.23%
+  31  YMF2018_074_S39001.trim     0.00%    failed      0.09%
+  32  YMF2018_076_S51001.trim     0.00%    failed      0.00%
+  33  YMF2018_079_S63001.trim     0.00%    passed     35.08%
+  34  YMF2018_082_S75001.trim     0.00%    failed      0.01%
+  35  YMF2018_083_S87001.trim     0.00%    failed      1.49%
+  36  YMF2018_084_S5001.trim      0.00%    failed      0.00%
+  37  YMF2018_085_S16001.trim     0.00%    failed      0.00%
+  38  YMF2018_086_S28001.trim     0.00%    failed      0.07%
+  39  YMF2018_088_S40001.trim     0.00%    failed      0.00%
+  40  YMF2018_089_S52001.trim     0.00%    passed     78.15%
+  41  YMF2018_092_S64001.trim     0.00%    passed     56.00%
+  42  YMF2018_093_S76001.trim     0.00%    passed      5.16%
+  43  YMF2018_094_S88001.trim     0.00%    passed     18.62%
+  44  YMF2018_096_S6001.trim      0.00%    failed      0.00%
+  45  YMF2018_098_S17001.trim     0.00%    failed      0.00%
+  46  YMF2018_100_S29001.trim     0.00%    passed     68.38%
+  47  YMF2018_101_S41001.trim     0.00%    passed     66.77%
+  48  YMF2018_102_S53001.trim     0.00%    failed      0.10%
+  49  YMF2018_103_S65001.trim     0.00%    failed      0.16%
+  50  YMF2018_104_S77001.trim     0.00%    failed      0.00%
+  51  YMF2018_106_S7001.trim      0.00%    passed     33.87%
+  52  YMF2018_107_S18001.trim     0.00%    passed     12.72%
+  53  YMF2018_108_S30001.trim     0.00%    failed      0.00%
+  54  YMF2018_109_S42001.trim     0.00%    failed      0.00%
+  55  YMF2018_110_S54001.trim     0.00%    failed      0.00%
+  56  YMF2018_112_S78001.trim     0.00%    passed     71.76%
+  57  YMF2018_113_S90001.trim     0.00%    failed      0.00%
+  58  YMF2018_114_S8001.trim      0.00%    failed      0.06%
+  59  YMF2018_115_S19001.trim     0.00%    passed     22.79%
+  60  YMF2018_116_S31001.trim     0.00%    passed     99.55%
+  61  YMF2018_117_S43001.trim     0.00%    failed      0.00%
+  62  YMF2018_118_S55001.trim     0.00%    passed     36.52%
+  63  YMF2018_119_S67001.trim     0.00%    failed      0.00%
+  64  YMF2018_120_S79001.trim     0.00%    passed     84.54%
+  65  YMF2018_121_S91001.trim     0.00%    passed     19.16%
+  66  YMF2018_122_S9001.trim      0.00%    passed     81.76%
+  67  YMF2018_123_S20001.trim     0.00%    failed      0.00%
+  68  YMF2018_125_S32001.trim     0.00%    passed     11.31%
+  69  YMF2018_126_S44001.trim     0.00%    failed      3.93%
+  70  YMF2018_127_S56001.trim     0.00%    failed      0.00%
+  71  YMF2018_129_S80001.trim     0.00%    passed     25.18%
+  72  YMF2018_130_S92001.trim     0.00%    failed      0.27%
+  73  YMF2018_132_S10001.trim     0.00%    failed      0.08%
+  74  YMF2018_133_S21001.trim     0.00%    failed      0.01%
+  75  YMF2018_135_S33001.trim     0.00%    failed      0.00%
+  76  YMF2018_136_S45001.trim     0.00%    failed      0.00%
+  77  YMF2018_137_S57001.trim     0.00%    failed      0.00%
+  78  YMF2018_138_S69001.trim     0.00%    failed      0.00%
+  79  YMF2018_139_S81001.trim     0.00%    failed      0.00%
+  80  YMF2018_140_S93001.trim     0.00%    passed     12.97%
+  81  YMF2018_141_S11001.trim     0.00%    failed      0.00%
+  82  YMF2018_142_S22001.trim     0.00%    passed      9.04%
+  83  YMF2018_143_S34001.trim     0.00%    passed     80.49%
+  84  YMF2018_144_S46001.trim     0.00%    passed      6.49%
+  85  YMF2018_145_S58001.trim     0.00%    failed      0.00%
+  86  YMF2018_146_S70001.trim     0.00%    failed      0.00%
+  87  YMF2018_147_S82001.trim     0.00%    passed      6.39%
+  88  YMF2018_148_S94001.trim     0.00%    failed      0.00%
+  89  YMF2018_149_S95001.trim     0.00%    passed     27.13%
+  90  YMF2018_150_S107001.trim    0.00%    passed     45.00%
+  91  YMF2018_151_S141001.trim    0.00%    failed      0.03%
+  92  YMF2018_152_S153001.trim    0.00%    failed      0.00%
+  93  YMF2018_153_S165001.trim    0.00%    failed      0.00%
+  94  YMF2018_154_S177001.trim    0.00%    failed      0.00%
+  95  YMF2018_155_S96001.trim     0.00%    failed      0.02%
+  96  YMF2018_156_S108001.trim    0.00%    failed      0.00%
+  97  YMF2018_157_S119001.trim    0.00%    failed      0.00%
+  98  YMF2018_159_S130001.trim    0.00%    failed      0.00%
+  99  YMF2018_161_S142001.trim    0.00%    failed      0.00%
+ 100  YMF2018_162_S154001.trim    0.00%    passed     49.87%
+ 101  YMF2018_163_S166001.trim    0.00%    failed      0.00%
+ 102  YMF2018_164_S178001.trim    0.00%    failed      0.00%
+ 103  YMF2018_165_S97001.trim     0.00%    passed     52.04%
+ 104  YMF2018_166_S109001.trim    0.00%    passed     33.69%
+ 105  YMF2018_167_S120001.trim    0.00%    passed     50.38%
+ 106  YMF2018_168_S131001.trim    0.00%    failed      0.00%
+ 107  YMF2018_169_S143001.trim    0.00%    passed     86.98%
+ 108  YMF2018_170_S155001.trim    0.00%    failed      0.00%
+ 109  YMF2018_171_S167001.trim    0.00%    failed      2.52%
+ 110  YMF2018_172_S179001.trim    0.00%    failed      0.01%
+ 111  YMF2018_173_S98001.trim     0.00%    failed      0.00%
+ 112  YMF2018_174_S110001.trim    0.00%    failed      0.00%
+ 113  YMF2018_175_S132001.trim    0.00%    failed      0.00%
+ 114  YMF2018_176_S121001.trim    0.00%    failed      0.00%
+ 115  YMF2018_177_S144001.trim    0.00%    failed      0.00%
+ 116  YMF2018_178_S156001.trim    0.00%    failed      0.00%
+ 117  YMF2018_179_S168001.trim    0.00%    passed     18.64%
+ 118  YMF2018_180_S180001.trim    0.00%    failed      0.15%
+ 119  YMF2018_181_S99001.trim     0.00%    failed      0.00%
+ 120  YMF2018_182_S111001.trim    0.00%    passed     88.37%
+ 121  YMF2018_183_S122001.trim    0.00%    failed      0.00%
+ 122  YMF2018_184_S133001.trim    0.00%    failed      0.00%
+ 123  YMF2018_185_S145001.trim    0.00%    failed      0.00%
+ 124  YMF2018_186_S157001.trim    0.00%    failed      0.00%
+ 125  YMF2018_187_S169001.trim    0.00%    failed      0.00%
+ 126  YMF2018_189_S181001.trim    0.00%    failed      0.00%
+ 127  YMF2018_193_S100001.trim    0.00%    failed      0.00%
+ 128  YMF2018_194_S112001.trim    0.00%    failed      0.00%
+ 129  YMF2018_196_S123001.trim    0.00%    failed      0.01%
+ 130  YMF2018_197_S134001.trim    0.00%    passed     93.75%
+ 131  YMF2018_199_S146001.trim    0.00%    failed      0.70%
+ 132  YMF2018_201_S170001.trim    0.00%    failed      0.00%
+ 133  YMF2018_203_S182001.trim    0.00%    failed      0.03%
+ 134  YMF2018_205_S101001.trim    0.00%    failed      0.00%
+ 135  YMF2018_206_S113001.trim    0.00%    passed     61.37%
+ 136  YMF2018_207_S124001.trim    0.00%    passed     58.73%
+ 137  YMF2018_208_S135001.trim    0.00%    failed      0.00%
+ 138  YMF2018_209_S147001.trim    0.00%    failed      0.00%
+ 139  YMF2018_210_S159001.trim    0.00%    failed      0.00%
+ 140  YMF2018_211_S171001.trim    0.00%    failed      0.00%
+ 141  YMF2018_214_S183001.trim    0.00%    passed     94.75%
+ 142  YMF2018_215_S102001.trim    0.00%    passed     34.73%
+ 143  YMF2018_216_S114001.trim    0.00%    failed      1.00%
+ 144  YMF2018_217_S125001.trim    0.00%    failed      2.52%
+ 145  YMF2018_218_S136001.trim    0.00%    failed      0.00%
+ 146  YMF2018_219_S148001.trim    0.00%    passed     90.42%
+ 147  YMF2018_220_S160001.trim    0.00%    failed      0.00%
+ 148  YMF2018_221_S172001.trim    0.00%    failed      4.06%
+ 149  YMF2018_222_S184001.trim    0.00%    passed     87.34%
+ 150  YMF2018_224_S103001.trim    0.00%    failed      0.00%
+ 151  YMF2018_225_S115001.trim    0.00%    failed      0.05%
+ 152  YMF2018_226_S126001.trim    0.00%    failed      0.00%
+ 153  YMF2018_227_S137001.trim    0.00%    failed      0.00%
+ 154  YMF2018_228_S149001.trim    0.00%    failed      0.00%
+ 155  YMF2018_229_S161001.trim    0.00%    failed      0.00%
+ 156  YMF2018_230_S173001.trim    0.00%    passed     17.24%
+ 157  YMF2018_231_S185001.trim    0.00%    failed      0.00%
+ 158  YMF2018_232_S104001.trim    0.00%    failed      0.07%
+ 159  YMF2018_236_S116001.trim    0.00%    passed     97.28%
+ 160  YMF2018_237_S127001.trim    0.00%    failed      0.11%
+ 161  YMF2018_238_S138001.trim    0.00%    failed      0.00%
+ 162  YMF2018_239_S150001.trim    0.00%    failed      0.00%
+ 163  YMF2018_240_S162001.trim    0.00%    failed      2.10%
+ 164  YMF2018_242_S174001.trim    0.00%    passed     13.28%
+ 165  YMF2018_243_S186001.trim    0.00%    failed      0.00%
+ 166  YMF2018_244_S105001.trim    0.00%    passed     93.24%
+ 167  YMF2018_246_S117001.trim    0.00%    failed      0.00%
+ 168  YMF2018_248_S128001.trim    0.00%    failed      0.00%
+ 169  YMF2018_250_S151001.trim    0.00%    passed     62.66%
+ 170  YMF2018_251_S163001.trim    0.00%    failed      0.00%
+ 171  YMF2018_252_S175001.trim    0.00%    failed      0.00%
+ 172  YMF2018_253_S187001.trim    0.00%    passed     10.71%
+ 173  YMF2018_254_S106001.trim    0.00%    failed      0.00%
+ 174  YMF2018_257_S129001.trim    0.00%    failed      0.00%
+ 175  YMF2018_258_S140001.trim    0.00%    failed      0.00%
+ 176  YMF2018_259_S152001.trim    0.00%    passed     38.04%
+ 177  YMF2018_261_S176001.trim    0.00%    failed      0.00%
+ 178  YMF2018_262_S188001.trim    0.00%    failed      0.00%
+ 179  YMF2018_263_S189001.trim    0.00%    passed     43.06%
+ 180  YMF2018_266_S199001.trim    0.00%    failed      0.00%
+ 181  YMF2018_270_S256001.trim    0.00%    failed      0.00%
+ 182  YMF2018_271_S190001.trim    0.00%    passed     68.13%
+ 183  YMF2018_272_S200001.trim    0.00%    passed     94.81%
+ 184  YMF2018_273_S210001.trim    0.00%    passed     72.93%
+ 185  YMF2018_274_S220001.trim    0.00%    failed      0.00%
+ 186  YMF2018_275_S229001.trim    0.00%    failed      0.00%
+ 187  YMF2018_276_S238001.trim    0.00%    passed     77.06%
+ 188  YMF2018_277_S248001.trim    0.00%    passed     57.16%
+ 189  YMF2018_278_S257001.trim    0.00%    failed      0.00%
+ 190  YMF2018_279_S191001.trim    0.00%    passed     36.64%
+ 191  YMF2018_280_S201001.trim    0.00%    failed      0.00%
+ 192  YMF2018_281_S211001.trim    0.00%    failed      0.01%
+ 193  YMF2018_282_S221001.trim    0.00%    passed      9.89%
+ 194  YMF2018_284_S230001.trim    0.00%    failed      0.00%
+ 195  YMF2018_287_S249001.trim    0.00%    failed      0.00%
+ 196  YMF2018_289_S258001.trim    0.00%    passed     18.30%
+ 197  YMF2018_292_S192001.trim    0.00%    failed      0.00%
+ 198  YMF2018_296_S212001.trim    0.00%    failed      0.00%
+ 199  YMF2018_300_S231001.trim    0.00%    failed      0.00%
+ 200  YMF2018_304_S250001.trim    0.00%    failed      0.00%
+ 201  YMF2018_305_S259001.trim    0.00%    failed      0.00%
+ 202  YMF2018_307_S193001.trim    0.00%    failed      0.12%
+ 203  YMF2018_308_S203001.trim    0.00%    passed     31.03%
+ 204  YMF2018_309_S213001.trim    0.00%    passed      5.86%
+ 205  YMF2018_310_S223001.trim    0.00%    passed     15.58%
+ 206  YMF2018_311_S232001.trim    0.00%    failed      0.00%
+ 207  YMF2018_312_S241001.trim    0.00%    passed     21.88%
+ 208  YMF2018_313_S251001.trim    0.00%    failed      0.00%
+ 209  YMF2018_314_S260001.trim    0.00%    failed      0.01%
+ 210  YMF2018_315_S194001.trim    0.00%    failed      0.00%
+ 211  YMF2018_316_S204001.trim    0.00%    failed      0.44%
+ 212  YMF2018_317_S214001.trim    0.00%    passed     92.93%
+ 213  YMF2018_318_S224001.trim    0.00%    failed      0.00%
+ 214  YMF2018_319_S233001.trim    0.00%    failed      0.92%
+ 215  YMF2018_321_S242001.trim    0.00%    failed      0.00%
+ 216  YMF2018_324_S252001.trim    0.00%    failed      1.64%
+ 217  YMF2018_338_S234001.trim    0.00%    passed     37.92%
+ 218  YMF2018_339_S243001.trim    0.00%    failed      0.00%
+ 219  YMF2018_345_S196001.trim    0.00%    failed      0.00%
+ 220  YMF2018_347_S206001.trim    0.00%    failed      0.00%
+ 221  YMF2018_350_S216001.trim    0.00%    passed     15.18%
+ 222  YMF2018_354_S235001.trim    0.00%    failed      0.78%
+ 223  YMF2018_356_S244001.trim    0.00%    failed      0.12%
+ 224  YMF2018_357_S254001.trim    0.00%    failed      0.00%
+ 225  YMF2018_362_S197001.trim    0.00%    failed      0.00%
+ 226  YMF2018_363_S207001.trim    0.00%    failed      0.00%
+ 227  YMF2018_365_S217001.trim    0.00%    failed      1.73%
+ 228  YMF2018_368_S227001.trim    0.00%    failed      0.00%
+ 229  YMF2018_370_S236001.trim    0.00%    passed      6.24%
+ 230  YMF2018_371_S245001.trim    0.00%    failed      0.00%
+ 231  YMF2018_373_S264001.trim    0.00%    passed     67.54%
+****  TOTAL                       0.00%  158 sequences failed composition chi2 test (p-value<5%; df=10)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.290 seconds
+NOTE: ModelFinder requires 364 MB RAM!
+ModelFinder will test 462 protein models (sample size: 999) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+Measuring multi-threading efficiency up to 36 CPU cores
+Increase to 10 rounds for branch lengths
+54 trees examined
+Threads: 1 / Time: 36.235 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -411535
+Threads: 2 / Time: 19.568 sec / Speedup: 1.852 / Efficiency: 93% / LogL: -411535
+Threads: 3 / Time: 14.136 sec / Speedup: 2.563 / Efficiency: 85% / LogL: -411535
+Threads: 4 / Time: 11.430 sec / Speedup: 3.170 / Efficiency: 79% / LogL: -411535
+Threads: 5 / Time: 10.271 sec / Speedup: 3.528 / Efficiency: 71% / LogL: -411535
+Threads: 6 / Time: 9.239 sec / Speedup: 3.922 / Efficiency: 65% / LogL: -411535
+Threads: 7 / Time: 8.467 sec / Speedup: 4.280 / Efficiency: 61% / LogL: -411535
+Threads: 8 / Time: 8.113 sec / Speedup: 4.466 / Efficiency: 56% / LogL: -411535
+Threads: 9 / Time: 14.784 sec / Speedup: 2.451 / Efficiency: 27% / LogL: -411535
+BEST NUMBER OF THREADS: 7
+
+  1  Dayhoff       388962.294   459 778842.588   779626.039   781094.788
+  2  Dayhoff+G4    372523.037   460 745966.075   746754.402   748223.182
+  3  Dayhoff+R2    376347.421   461 753616.843   754410.072   755878.857
+  4  Dayhoff+R3    373457.287   463 747840.574   748643.685   750112.402
+  5  Dayhoff+R4    372321.511   465 745573.021   746386.117   747854.662
+  6  Dayhoff+R5    371854.740   467 744643.480   745466.667   746934.935
+  7  Dayhoff+R6    371564.751   469 744067.501   744900.885   746368.769
+  8  Dayhoff+R7    371414.057   471 743770.113   744613.802   746081.195
+  9  Dayhoff+R8    371327.901   473 743601.801   744455.904   745922.696
+ 10  Dayhoff+R9    371190.811   475 743331.622   744196.250   745662.331
+ 11  Dayhoff+R10   371169.067   477 743292.133   744167.396   745632.655
+ 12  Dayhoff+F     306494.151   478 613944.302   614824.925   616289.730
+ 13  Dayhoff+F+G4  275043.878   479 551045.757   551931.768   553396.092
+ 14  Dayhoff+F+R2  280987.816   480 562935.632   563827.061   565290.875
+ 15  Dayhoff+F+R3  276624.971   482 554213.941   555116.290   556578.997
+ 16  Dayhoff+F+R4  275677.163   484 552322.326   553235.711   554697.195
+ 17  Dayhoff+F+R5  273656.680   486 548285.360   549209.899   550670.042
+ 18  Dayhoff+F+R6  273656.681   488 548289.362   549225.174   550683.859
+ 23  mtMAM         404501.568   459 809921.135   810704.586   812173.336
+ 24  mtMAM+G4      386364.541   460 773649.083   774437.410   775906.190
+ 25  mtMAM+R2      390165.213   461 781252.425   782045.654   783514.439
+ 26  mtMAM+R3      387525.183   463 775976.367   776779.477   778248.194
+ 27  mtMAM+R4      386161.270   465 773252.540   774065.636   775534.181
+ 28  mtMAM+R5      385421.498   467 771776.996   772600.182   774068.450
+ 29  mtMAM+R6      385421.486   469 771780.973   772614.356   774082.241
+ 34  mtMAM+F       303180.914   478 607317.829   608198.452   609663.257
+ 35  mtMAM+F+G4    286611.005   479 574180.010   575066.022   576530.346
+ 36  mtMAM+F+R2    289398.492   480 579756.985   580648.413   582112.227
+ 37  mtMAM+F+R3    287388.166   482 575740.332   576642.680   578105.387
+ 38  mtMAM+F+R4    286045.316   484 573058.631   573972.016   575433.500
+ 39  mtMAM+F+R5    285390.905   486 571753.809   572678.348   574138.492
+ 40  mtMAM+F+R6    285390.605   488 571757.209   572693.021   574151.706
+ 45  JTT           365081.122   459 731080.243   731863.694   733332.444
+ 46  JTT+G4        356504.827   460 713929.654   714717.981   716186.762
+ 47  JTT+R2        358267.819   461 717457.639   718250.868   719719.653
+ 48  JTT+R3        356873.277   463 714672.553   715475.663   716944.380
+ 49  JTT+R4        356397.464   465 713724.928   714538.023   716006.568
+ 50  JTT+R5        356189.009   467 713312.018   714135.204   715603.472
+ 51  JTT+R6        356189.006   469 713316.011   714149.395   715617.279
+ 56  JTT+F         286810.514   478 574577.029   575457.652   576922.457
+ 57  JTT+F+G4      272568.542   479 546095.085   546981.097   548445.421
+ 58  JTT+F+R2      275922.586   480 552805.172   553696.600   555160.414
+ 59  JTT+F+R3      273327.348   482 547618.696   548521.045   549983.752
+ 60  JTT+F+R4      272529.519   484 546027.038   546940.423   548401.907

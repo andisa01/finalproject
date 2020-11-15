@@ -1,0 +1,2 @@
+Note that while I was waiting for the filtering step to complete, I used a pre-filtered file my project directory.
+I need to go back and change the VCFIN path in the runall.sh script to pull that vcf from the 1.filtering directory here

@@ -1,0 +1,331 @@
+2020-11-15 10:22:41 EST
+myersPopGen_main_minsamp013.vcf has the following number of SNPs:
+322996
+2020-11-15 10:22:43 EST
+myersPopGen_main_minsamp013.biallelic.vcf has the following number of SNPs:
+312401
+2020-11-15 10:23:14 EST
+The following number of loci have more than one SNP:
+54068
+2020-11-15 11:36:06 EST
+myersPopGen_main_minsamp013.oneSNP.vcf has the following number of SNPs:
+65871
+2020-11-15 11:39:09 EST
+Following filtering of SNPs not present in at least 50% of samples, the following number of SNPs remained:
+20798
+2020-11-15 11:39:09 EST
+The following samples have been removed because they have >50% missing data:
+YMF2018_105_S89001.trim
+YMF2018_111_S66001.trim
+YMF2018_128_S68001.trim
+YMF2018_200_S158001.trim
+YMF2018_249_S139001.trim
+YMF2018_256_S118001.trim
+YMF2018_260_S164001.trim
+YMF2018_267_S209001.trim
+YMF2018_268_S219001.trim
+YMF2018_269_S247001.trim
+YMF2018_285_S239001.trim
+YMF2018_293_S202001.trim
+YMF2018_297_S222001.trim
+YMF2018_301_S240001.trim
+YMF2018_331_S225001.trim
+YMF2018_342_S253001.trim
+YMF2018_344_S262001.trim
+YMF2018_351_S226001.trim
+YMF2018_359_S263001.trim
+2020-11-15 11:39:12 EST
+Following this filtering myersPopGen_main_minsamp013.0.5_0.5.vcf has been written out, containing 20798 SNPs and 242 samples
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_WP
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_LO
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_W1
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_WM
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_BP2
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_FE
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_BO
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_AW
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_X7
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_X9
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_E8
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_SD
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_T5
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_PH
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_NAT
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_SH
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_CPS
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_BS
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_LA
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_E1
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_DE
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_KE
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_PB
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_A10
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_GB
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_WF
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_DT
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_Z5
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_FHE
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_AA006
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_PW
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_MI
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_S4
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_Z3
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_QU
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_3WS
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_F1
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_CPN
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_G1
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YPR_YP5
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:MAD_MadConcord
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_LAP
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YMF_C3
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:YPR_YP16
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:MAD_MadColonial
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:BEB_BethBog
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:RIP_RichProp
+2020-11-15 11:39:12 EST
+The following population has no samples left following filtering for missing SNPs:SCP_ScranProp
+2020-11-15 11:39:13 EST
+The following loci (p-values given) will be removed because at least 17 populations had a HWE p-value of <0.05
+snp YMF_WP YMF_LO YMF_W1 YMF_WM YMF_BP2 YMF_FE YMF_BO YMF_AW YMF_X7 YMF_X9 YMF_E8 YMF_SD YMF_T5 YMF_PH YMF_NAT YMF_SH YMF_CPS YMF_BS YMF_LA YMF_E1 YMF_DE YMF_KE YMF_PB YMF_A10 YMF_GB YMF_WF YMF_DT YMF_Z5 YMF_FHE YMF_AA006 YMF_PW YMF_MI YMF_S4 YMF_Z3 YMF_QU YMF_3WS YMF_F1 YMF_CPN YMF_G1 YPR_YP5 MAD_MadConcord YMF_LAP YMF_C3 YPR_YP16 MAD_MadColonial BEB_BethBog RIP_RichProp SCP_ScranProp
+2020-11-15 11:39:15 EST
+Following this filtering myersPopGen_main_minsamp013.0.5_0.5.0.05_17.HWE.vcf has been written out, containing 20798 SNPs and 242 samples
+2020-11-15 11:39:15 EST
+YMF_WP does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_LO does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_W1 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_WM does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_BP2 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_FE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_BO does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_AW does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_X7 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_X9 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_E8 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_SD does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_T5 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_PH does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_NAT does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_SH does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_CPS does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_BS does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_LA does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_E1 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_DE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_KE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_PB does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_A10 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_GB does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_WF does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_DT does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_Z5 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_FHE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_AA006 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_PW does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_MI does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_S4 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_Z3 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_QU does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_3WS does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_F1 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_CPN does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_G1 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YPR_YP5 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+MAD_MadConcord does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_LAP does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YMF_C3 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+YPR_YP16 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+MAD_MadColonial does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+BEB_BethBog does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+RIP_RichProp does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:15 EST
+SCP_ScranProp does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_WP does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_LO does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_W1 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_WM does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_BP2 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_FE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_BO does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_AW does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_X7 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_X9 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_E8 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_SD does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_T5 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_PH does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_NAT does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_SH does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_CPS does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_BS does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_LA does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_E1 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_DE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_KE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_PB does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_A10 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_GB does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_WF does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_DT does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_Z5 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_FHE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_AA006 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_PW does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_MI does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_S4 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_Z3 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_QU does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_3WS does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_F1 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_CPN does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_G1 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YPR_YP5 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+MAD_MadConcord does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_LAP does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YMF_C3 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+YPR_YP16 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+MAD_MadColonial does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+BEB_BethBog does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+RIP_RichProp does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 11:39:26 EST
+SCP_ScranProp does not have any samples remaining, potentially because they were removed due to having too many missing SNPs

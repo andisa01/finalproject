@@ -1,0 +1,121 @@
+2020-11-15 10:12:20 EST
+YMFpilot.vcf has the following number of SNPs:
+259338
+2020-11-15 10:12:20 EST
+YMFpilot.biallelic.vcf has the following number of SNPs:
+255285
+2020-11-15 10:12:23 EST
+The following number of loci have more than one SNP:
+53897
+2020-11-15 10:25:11 EST
+YMFpilot.oneSNP.vcf has the following number of SNPs:
+75610
+2020-11-15 10:25:32 EST
+Following filtering of SNPs not present in at least 50% of samples, the following number of SNPs remained:
+51349
+2020-11-15 10:25:32 EST
+The following samples have been removed because they have >50% missing data:
+
+2020-11-15 10:25:33 EST
+Following this filtering YMFpilot.0.5_0.5.vcf has been written out, containing 51349 SNPs and 16 samples
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:WF
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:SH
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:LA
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:E8
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:PB
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:BP2
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:LO
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:WM
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:BS
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:BO
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:WP
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:FHE
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:MI
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:GB
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:KE
+2020-11-15 10:25:33 EST
+The following population has no samples left following filtering for missing SNPs:W1
+2020-11-15 10:25:35 EST
+The following loci (p-values given) will be removed because at least 17 populations had a HWE p-value of <0.05
+snp WF SH LA E8 PB BP2 LO WM BS BO WP FHE MI GB KE W1
+2020-11-15 10:25:35 EST
+Following this filtering YMFpilot.0.5_0.5.0.05_17.HWE.vcf has been written out, containing 51349 SNPs and 16 samples
+2020-11-15 10:25:35 EST
+WF does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+SH does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+LA does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+E8 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+PB does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+BP2 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+LO does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+WM does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+BS does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+BO does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+WP does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+FHE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+MI does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+GB does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+KE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:35 EST
+W1 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+WF does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+SH does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+LA does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+E8 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+PB does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+BP2 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+LO does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+WM does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+BS does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+BO does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+WP does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+FHE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+MI does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+GB does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+KE does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
+2020-11-15 10:25:38 EST
+W1 does not have any samples remaining, potentially because they were removed due to having too many missing SNPs
