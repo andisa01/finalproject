@@ -36,23 +36,33 @@ While the prior analyses test for relationships between individual samples, stru
 ## 3. Results
 As expected, more extreme filtering thresholds drastically reduce the number of samples and SNPs in the dataset.
 ![Fig 1. Samples retained filtering on maximum % missing loci or minimum % missingness among samples](/figs/MissingSamps.png)
+Fig 1. Samples retained filtering on maximum % missing loci or minimum % missingness among samples
+
 ![Fig 2. Total SNPs retained (x 10^6) filtering on maximum % missing loci or minimum % missingness among samples](/figs/MissingSNPs.png)
+Fig 2. Total SNPs retained (x 10^6) filtering on maximum % missing loci or minimum % missingness among samples
 
 Weighted scoring of missingess against total data indicates that retaining samples with up to 50% missingness and loci present in at least 58% of samples results in the largest, most complete matrix and includes 265 of 276 samples.
-![Fig 3. Weighted scores of missingess against total data](/figs/MissingScores.png)
+![Fig 3. Weighted scores of missingess against total data](/figs/MissingScore.png)
+Fig 3. Weighted scores of missingess against total data
 
 Model-based cladogram does not recover pond populations as unique clades.
 ![Fig 4. Cladogram of full metapopulation data](/figs/YMFmain_phylo.png)
+Fig 4. Cladogram of full metapopulation data
 
 Rather, clustering-based PCA indicates that genetic relatedness is associated primarily with two distinct clusters that are not associated with geography.
 ![Fig 5. PCA of full dataset with geographic locations](/figs/PCA_full.png)
+Fig 5. PCA of full dataset with geographic locations
 
 The SNPs driving these associations are not related to levels of missingness in the dataset.
-![Fig 6. PC loadings of individual SNPs are not associated with locus frequency or missingness in the dataset](/figs/VariantPCloadings.png)
+![Fig 6. PC loadings of individual SNPs are not associated with locus frequency or missingness in the dataset](/figs/VariantPCloadings.PNG)
+Fig 6. PC loadings of individual SNPs are not associated with locus frequency or missingness in the dataset
 
 Instead of individual-based measures of differentiation, I analyzed population-wise levels of average differentiation with Wright’s Fst. Using Fst as edge weights, I considered if the disparity in harmonic population size or geographic distance associated with differentiation. While Fst was not strongly associated with geography, ponds with more similar harmonic mean population sizes tended to have lower pairwise genetic differentiation.
-![Fig 7. The relationship between genetic similarity and geography among pond populations. Denser edge weights indicate lower Fst (i.e. lower differentiation). Point size indicates harmonic mean population size and color indicates extinction probability (red = high probability) based on census studies. To prevent overplotting, only edges in the lowest 2.5th, 5th, 10th and 20th cumulative percentiles are shown.](/figs/Network.png)
-![Fig 8. Network diagram of populations. The spatial distribution of populations is based on network stress--population with lowest differentiation to between more pairs cluster closer to the center. Only edges in the lowest 20th percentiles are included. Populations without pairwise edges in the lowest 20th percentile are shown on the left.](/figs/VariantPCloadings.png)
+![Fig 7. The relationship between genetic similarity and geography among pond populations. Denser edge weights indicate lower Fst (i.e. lower differentiation). Point size indicates harmonic mean population size and color indicates extinction probability (red = high probability) based on census studies. To prevent overplotting, only edges in the lowest 2.5th, 5th, 10th and 20th cumulative percentiles are shown.](/figs/Network.PNG)
+Fig 7. The relationship between genetic similarity and geography among pond populations. Denser edge weights indicate lower Fst (i.e. lower differentiation). Point size indicates harmonic mean population size and color indicates extinction probability (red = high probability) based on census studies. To prevent overplotting, only edges in the lowest 2.5th, 5th, 10th and 20th cumulative percentiles are shown.
+
+![Fig 8. Network diagram of populations. The spatial distribution of populations is based on network stress--population with lowest differentiation to between more pairs cluster closer to the center. Only edges in the lowest 20th percentiles are included. Populations without pairwise edges in the lowest 20th percentile are shown on the left.](/figs/VariantPCloadings.PNG)
+Fig 8. Network diagram of populations. The spatial distribution of populations is based on network stress--population with lowest differentiation to between more pairs cluster closer to the center. Only edges in the lowest 20th percentiles are included. Populations without pairwise edges in the lowest 20th percentile are shown on the left.
 
 
 ## 4. Discussion
